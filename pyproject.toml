@@ -9,4 +9,8 @@ dependencies = []
 [dependency-groups]
 dev = [
     "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pyqt5>=5.15.11",
+    "tk>=0.1.0",
 ]
